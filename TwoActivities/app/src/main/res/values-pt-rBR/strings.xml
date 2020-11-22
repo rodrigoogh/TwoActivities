@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Duas Atividades</string>
+    <string name="button_main">Enviar</string>
+    <string name="editText_main">Digite sua mensagem aqui</string>
+    <string name="text_header">Mensagem enviada</string>
+    <string name="button_second">Responder</string>
+    <string name="editText_second">Digite sua resposta aqui</string>
+    <string name="text_header_reply">Resposta recebida</string>
+</resources>
